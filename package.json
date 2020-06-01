@@ -1,0 +1,25 @@
+{
+  "name": "onsen-light",
+  "version": "1.0.0",
+  "description": "Cordova light app Template using onsenui",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onsengui/onsen-light.git"
+  },
+  "keywords": [
+    "cordova:template",
+    "cordova",
+    "Material",
+    "onsenui"
+  ],
+  "author": "atik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onsengui/onsen-light/issues"
+  },
+  "homepage": "https://github.com/onsengui/onsen-light#readme"
+}
